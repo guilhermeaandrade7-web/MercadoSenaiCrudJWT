@@ -1,4 +1,4 @@
-# MercadoSenaiCrudJWT
+# SixSeven Express
 Projeto SENAI Desenvolvimento de sistemas.
 
 Projeto: Sistema de Gerenciamento [Mercado]
